@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Jam-Game-June-2021/[Ll]ibrary/
+/Jam-Game-June-2021/[Tt]emp/
+/Jam-Game-June-2021/[Oo]bj/
+/Jam-Game-June-2021/[Bb]uild/
+/Jam-Game-June-2021/[Bb]uilds/
+/Jam-Game-June-2021/[Ll]ogs/
+/Jam-Game-June-2021/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+!/Jam-Game-June-2021/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -58,3 +58,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+.DS_Store
